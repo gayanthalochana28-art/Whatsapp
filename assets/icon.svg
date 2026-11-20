@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="WaFlow">
+  <defs>
+    <radialGradient id="waflow-bg" cx="28%" cy="18%" r="85%">
+      <stop offset="0" stop-color="#0e2b1c"/>
+      <stop offset="1" stop-color="#07110d"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#waflow-bg)"/>
+  <path d="M162 118h188c31 0 56 25 56 56v108c0 31-25 56-56 56H216l-64 48 13-50c-23-8-39-29-39-54V174c0-31 25-56 56-56Z" fill="#25d366"/>
+  <circle cx="194" cy="228" r="23" fill="#07110d"/>
+  <circle cx="256" cy="228" r="23" fill="#07110d"/>
+  <circle cx="318" cy="228" r="23" fill="#07110d"/>
+  <path d="m290 308 19 19 35-38" fill="none" stroke="#ffffff" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
